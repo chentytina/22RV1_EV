@@ -1,2 +1,3 @@
 # 22RV1_EV
-# code currently being cleaned/ modified
+# code updated
+# count data available via GEO
